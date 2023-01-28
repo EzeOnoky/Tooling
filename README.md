@@ -73,4 +73,3 @@ Default web root:
 
 ## If you require permissions to GCP, or Gitlab resources, please talk to dare@propitix.com
 
-i will be a very good devops engr eith very good pay...amen
